@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "spring.queries.users-query",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.queries.users-query'"
+  },
+  {
+    "name": "spring.admin.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.admin.username'"
+  },
+  {
+    "name": "spring.admin.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.admin.password'"
+  },
+  {
+    "name": "spring.queries.roles-query",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.queries.roles-query'"
+  }
+]}

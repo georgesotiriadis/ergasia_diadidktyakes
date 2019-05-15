@@ -1,0 +1,50 @@
+h1 {
+    color: #0000FF;
+}
+
+h2 {
+    color: #FF0000;
+}
+
+footer {
+    margin-top: 60px;
+}
+
+.validation-message {
+    font-style: normal;
+    font-size: 10px;
+    color: #FF1C19;
+}
+
+a {
+    transition: all .2s;
+}
+
+a:hover, a:focus, a:active {
+    color: purple;
+    text-decoration: none;
+}
+
+.pagination {
+    display: block;
+    text-align: center;
+}
+body {
+  /* Location of the image */
+  background-image: url(/TeiKastoriasShopingCard/src/main/resources/static/css/apopsi.jpg);
+  
+  /* Background image is centered vertically and horizontally at all times */
+  background-position: center center;
+  
+  /* Background image doesn't tile */
+  background-repeat: no-repeat;
+  
+  /* Background image is fixed in the viewport so that it doesn't move when 
+     the content's height is greater than the image's height */
+  background-attachment: fixed;
+  
+  /* This is what makes the background image rescale based
+     on the container's size */
+  background-size: cover;
+
+}
