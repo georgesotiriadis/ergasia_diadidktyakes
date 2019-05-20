@@ -46,7 +46,7 @@ Or you can build the war file with
 $ scripts/mvnw clean package
 ``` 
 
-Then you can run the JAR file:
+Then you can run the War file:
 ```bash
 $ java -jar target/shopping-cart-0.0.1-SNAPSHOT.war
 ```
