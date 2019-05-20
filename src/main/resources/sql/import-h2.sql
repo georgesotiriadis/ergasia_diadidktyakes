@@ -27,19 +27,19 @@ INSERT INTO USER_ROLE (user_id, role_id)
 VALUES (3, 2);
 
 INSERT INTO PRODUCT (name, description, quantity, price)
-VALUES ('Soap', 'Greatest Soap To Take', 1, 8);
+VALUES ('Soap', 'Greatest Soap To Take', 50, 8);
 INSERT INTO PRODUCT (name, description, quantity, price)
-VALUES ('Tooth Brush', 'Signal Tooth Brushes Size in (L, M, S)', 5, 34.50);
+VALUES ('Tooth Brush', 'Signal Tooth Brushes Size in (L, M, S)', 51, 34.50);
 INSERT INTO PRODUCT (name, description, quantity, price)
-VALUES ('Shirt', 'Casual Shirt imported from France', 3, 10);
+VALUES ('T-shirt', 'Casual Shirt imported from France', 20, 10);
 INSERT INTO PRODUCT (name, description, quantity, price)
-VALUES ('Office Bag', 'Leather bag imported from USA', 40, 50);
+VALUES ('Leather bag', 'Leather bag imported from USA', 40, 50);
 INSERT INTO PRODUCT (name, description, quantity, price)
 VALUES ('Bottle', 'Hot Water Bottles', 80, 1);
 INSERT INTO PRODUCT (name, description, quantity, price)
-VALUES ('Wrist Watch', 'Imported wrist watches from swiss', 800, 2500.00);
+VALUES ('Swiss Watch', 'Imported wrist watches from swiss', 800, 2500.00);
 INSERT INTO PRODUCT (name, description, quantity, price)
-VALUES ('Mobile Phone', '3G/4G capability', 700,350);
+VALUES ('Phone Oneplus 7 Pro', '4G capability Hott', 700,350);
 INSERT INTO PRODUCT (name, description, quantity, price)
 VALUES ('Shampoo', 'Head and Shoulders Shampoo', 500, 4);
 INSERT INTO PRODUCT (name, description, quantity, price)

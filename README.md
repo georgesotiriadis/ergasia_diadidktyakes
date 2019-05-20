@@ -48,7 +48,7 @@ $ scripts/mvnw clean package
 
 Then you can run the JAR file:
 ```bash
-$ java -jar target/shopping-cart-0.0.1-SNAPSHOT.jar
+$ java -jar target/shopping-cart-0.0.1-SNAPSHOT.war
 ```
 
 ### Maven
